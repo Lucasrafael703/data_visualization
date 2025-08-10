@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rw_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
+    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="Create a random walk method">
+      <change afterPath="$PROJECT_DIR$/d6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/die.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/die_visual.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/rw_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.dice_visual.executor": "Run",
+    "Python.die_visual.executor": "Run",
     "Python.log_pages.executor": "Run",
     "Python.mpl_squares.executor": "Run",
     "Python.rw_visual.executor": "Run",
@@ -73,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754444653347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create a random walk method">
+      <option name="closed" value="true" />
+      <created>1754780203421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754780203421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Create a random walk method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a random walk method" />
   </component>
 </project>
