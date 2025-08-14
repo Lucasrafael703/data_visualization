@@ -14,7 +14,7 @@ with open(readable_file, 'w') as f:
 
 all_eq_dicts = all_eq_data['features']
 
-mags, lons, lats  = [], [], []
+mags, lons, lats = [], [], []
 for eq_dict in all_eq_dicts:
     mag = eq_dict['properties']['mag']
     lon = eq_dict['geometry']['coordinates'][0]
