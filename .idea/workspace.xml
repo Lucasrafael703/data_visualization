@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="Create a chart view">
+    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="Working with json">
+      <change afterPath="$PROJECT_DIR$/eq_explore_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eq_world_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global_earthquakes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_color_scale.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/readable_eq_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/readable_eq_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.death_valley_highs_lows.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_visual.executor&quot;: &quot;Run&quot;,
-    &quot;Python.die_visual.executor&quot;: &quot;Run&quot;,
-    &quot;Python.log_pages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mpl_squares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rw_visual.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scatter_squares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sitka_highs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.death_valley_highs_lows.executor": "Run",
+    "Python.dice_visual.executor": "Run",
+    "Python.die_visual.executor": "Run",
+    "Python.eq_explore_data.executor": "Run",
+    "Python.eq_world_map.executor": "Run",
+    "Python.log_pages.executor": "Run",
+    "Python.mpl_squares.executor": "Run",
+    "Python.rw_visual.executor": "Run",
+    "Python.scatter_squares.executor": "Run",
+    "Python.show_color_scale.executor": "Run",
+    "Python.sitka_highs.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -122,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755049167471</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Working with json">
+      <option name="closed" value="true" />
+      <created>1755133026448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755133026448</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +147,7 @@
     <MESSAGE value="Working with plotly" />
     <MESSAGE value="Read CSV files" />
     <MESSAGE value="Create a chart view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a chart view" />
+    <MESSAGE value="Working with json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with json" />
   </component>
 </project>
