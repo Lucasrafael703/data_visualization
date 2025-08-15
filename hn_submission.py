@@ -28,6 +28,7 @@ for submission_id in submission_ids[:30]:
 # Sort by number of comments
 submission_dicts = sorted(submission_dicts, key=itemgetter('comments'), reverse=True)
 
+
 # Display results
 for submission_dict in submission_dicts:
     print(f"\nTitle: {submission_dict['title']}")
