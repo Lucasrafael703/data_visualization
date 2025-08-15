@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="Working with json">
-      <change afterPath="$PROJECT_DIR$/eq_explore_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eq_world_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global_earthquakes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_color_scale.py" afterDir="false" />
+    <list default="true" id="85f44545-6c9a-4ab4-ba74-cc1cf5a11fe1" name="Changes" comment="Working with API's II">
+      <change afterPath="$PROJECT_DIR$/hn_submission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/readable_eq_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/readable_eq_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +42,11 @@
     "Python.die_visual.executor": "Run",
     "Python.eq_explore_data.executor": "Run",
     "Python.eq_world_map.executor": "Run",
+    "Python.hn_article.executor": "Run",
+    "Python.hn_submission.executor": "Run",
     "Python.log_pages.executor": "Run",
     "Python.mpl_squares.executor": "Run",
+    "Python.python_repos.executor": "Run",
     "Python.rw_visual.executor": "Run",
     "Python.scatter_squares.executor": "Run",
     "Python.show_color_scale.executor": "Run",
@@ -137,7 +136,31 @@
       <option name="project" value="LOCAL" />
       <updated>1755133026448</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Working with json">
+      <option name="closed" value="true" />
+      <created>1755138106324</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755138106324</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Working with API's">
+      <option name="closed" value="true" />
+      <created>1755138158574</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755138158574</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Working with API's II">
+      <option name="closed" value="true" />
+      <created>1755216375675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755216375675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +171,8 @@
     <MESSAGE value="Read CSV files" />
     <MESSAGE value="Create a chart view" />
     <MESSAGE value="Working with json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with json" />
+    <MESSAGE value="Working with API's" />
+    <MESSAGE value="Working with API's II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with API's II" />
   </component>
 </project>
